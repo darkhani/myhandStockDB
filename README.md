@@ -1,19 +1,24 @@
 # myhandStockDB
+*Please unzip first! before use!!!
 * 이건 단지 SQLite 파일입니다. 그저... 뭐 정확한 데이터는 아니고요.. 폼만 잡았죠... 뭐 게임만드실때 쓰실수 있겠죠?
 이 파일의 진면목을 발견하신 분에게 그져 사용권한을 드립니당. ㅋ 단 본인 책임인거 아시져?
+
 ----------------------------------------------------------------------------------------------
 * This is a just SQLite file. that's it. No exactly korea stock market data. Just for use to create game!!! Yeh~ap.
+
 ----------------------------------------------------------------------------------------------
 * これはSQLiteファイルです。ただ...、正確なデータはないよ。
 まあゲーム造られた時に使用できるでしょう？
 このファイルの真価を発見した方は、自由に使用してください....ただ、すべての発生した問題は、本人起因している。
+
 ----------------------------------------------------------------------------------------------
 * 这是一个SQLite文件。
 这让效仿韩国股市。
 如果您需要免费提供。
 然而，责任可以追溯到你。
-----------------------------------------------------------------------------------------------
 
+----------------------------------------------------------------------------------------------
+* MIT License
 Copyright (c) 2015 tegine.com
 
 Permission is hereby granted, free of charge, to any person
@@ -36,6 +41,10 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
+
+----------------------------------------------------------------------------------------------
+
+You must unzip files first!!! before use this 2 sql files!!!
 
 ----------------------------------------------------------------------------------------------
 * Wow! Thanks....
